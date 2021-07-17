@@ -12,4 +12,8 @@ After entering your equation, the result will display in the Console as "Answer:
 Any integer results will be diaplayed without decimals, but answers that do include decimals will display as well as being rounded to the nearest one thousandth. 
 The file will automatically perform Order of Operations as well.
 
-The Parentheses operation is currently in progress of being added, and will likely be added in a few days.
+# Parentheses Operation
+
+The Parentheses operation is able to be used. To use, please add parentheses around the equation, for example, (3+4). 
+You may add in operations around the parentheses, and Order of Operations will still be performed. Example: 2*(2+2) will equal 8, as will (2+2)*2. In addition, parentheses may be used in cooperation with one another. For example, you may do 1+(2*(3+4)), and 15 will be the output. 
+However, the operation of (equation)(equation) as well as number(equation) is not supported yet, but can be expected to be added soon.
